@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/holidays-app/static/css/main.e40f6079.chunk.css",
+    "main.js": "/holidays-app/static/js/main.1302b9f6.chunk.js",
+    "main.js.map": "/holidays-app/static/js/main.1302b9f6.chunk.js.map",
+    "runtime-main.js": "/holidays-app/static/js/runtime-main.29d2ffec.js",
+    "runtime-main.js.map": "/holidays-app/static/js/runtime-main.29d2ffec.js.map",
+    "static/js/2.38d91437.chunk.js": "/holidays-app/static/js/2.38d91437.chunk.js",
+    "static/js/2.38d91437.chunk.js.map": "/holidays-app/static/js/2.38d91437.chunk.js.map",
+    "index.html": "/holidays-app/index.html",
+    "static/css/main.e40f6079.chunk.css.map": "/holidays-app/static/css/main.e40f6079.chunk.css.map",
+    "static/js/2.38d91437.chunk.js.LICENSE.txt": "/holidays-app/static/js/2.38d91437.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29d2ffec.js",
+    "static/js/2.38d91437.chunk.js",
+    "static/css/main.e40f6079.chunk.css",
+    "static/js/main.1302b9f6.chunk.js"
+  ]
+}
